@@ -1,0 +1,215 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: rgb(74, 7, 231);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.logo {
+    width: 100px;
+    height: 80px;
+}
+.info {
+    text-transform: capitalize;    
+    border: none;
+    background: none;
+    color: white;
+    font-size: 25px;   
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.com {
+    display: flex;
+    align-items: center;   
+}
+.bog {
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.cons {
+    display: flex;
+    font-size: 50px;
+    flex-wrap: wrap;
+}
+.name {
+    text-transform: capitalize;
+    color: rgb(86, 8, 211);
+    font-size: 50px;
+  
+}
+.cons2 {
+    font-size: 20px;
+}
+.conta {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;   
+}
+.poz {
+    width: 740px;
+    display: flex;
+    flex-flow: column;  
+    justify-content: center;
+    gap: 20px;
+}
+.poz2 {
+    display: flex;
+   gap: 50px;
+   margin-left: 60px;
+    flex-wrap: wrap;    
+}
+.poz3 {    
+    font-size: 40px
+}
+.poza {
+    background-color: rgb(86, 8, 211);
+    color: white;
+    border: none;
+    border-radius: 3px;  
+}
+.pozb {
+    background-color:none;
+    border-color: rgb(86, 8, 211);    
+    border-radius: 7px;
+}
+.infor {
+    display: flex;
+    height: 100%;
+    margin: 10px;
+    flex-wrap: wrap ;    
+}
+.skul {
+    margin: 20px;
+    width: 500px;
+    border-radius: 5px; 
+}
+.infora {
+    margin: 30px;
+    font-size: 20px;
+    text-indent: 10px;
+    width: 50%;
+}
+.preim {
+    background-color: blue;
+    padding: 30px;
+    color: white;
+    display: flex;
+    gap: 2%;   
+   flex-flow: wrap  ;
+   justify-content: space-around;
+}
+.foto {
+    border-radius:175px;
+    width: 300px;
+    height:300px;
+    border: 5px solid white;  
+}
+.blok {
+    width:min-content;
+    text-align: center;
+}
+.klass {   
+    padding: 30px;
+    display: flex;
+    gap: 9%;
+   flex-flow: wrap  ;
+   justify-content:center; 
+}
+.titklas {
+    text-align: center;
+}
+.foto2 {
+    border-radius:17px;
+    width: 230px;
+    height:190px;    
+}
+.blok2 {
+    width:min-content;  
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding: 1%;
+    border-radius: 20px;
+    margin: 10px;
+}
+.blok2a {
+    width: 100%;
+    display: flex;   
+    justify-content: space-evenly;   
+}
+.opacity {
+    opacity: 0.8;
+    font-size: 15px;   
+}
+.end {
+    display: flex;
+    background-color: blue;
+    color: white;
+   width: 70%;
+    margin: 3% 0% 0% 15%;
+    flex-flow: row wrap;   
+}
+.kontakt {
+    display: flex;
+    flex-flow: column;
+  margin: 2%;  
+}
+li {
+    font-size: 20px;
+    margin:0% 0% 7% 0%;
+}
+.kont {
+    width: 90%;
+    margin: 0% 0% 0% 5%;
+    height: 57%;
+}
+.kont1 {
+    margin: 7% 0% 0% 5%;
+    font-size: 45px;
+}
+
+
+.oct {
+    font-size: 45px;
+    margin: 7% 0% 0% 0%;   
+}
+.zayavka {
+    display: flex;
+    flex-flow: column wrap;
+    margin: 2%; 
+    width: 45%;
+}
+.skidka {
+    font-size: 20px;
+    font-family:sans-serif ;
+    width: 80%;
+}
+.inp {
+    margin: 2%;
+    font-size: 22px;
+    width: 100%;
+}
+#form1 {
+    margin: 2%;
+    font-size: 22px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.send {
+    width: min-content;
+    font-size: 24px; 
+    padding: 5px 20px; 
+}
+.send1 {
+    display: flex;
+    justify-content: right;
+    margin: 2%;
+}
